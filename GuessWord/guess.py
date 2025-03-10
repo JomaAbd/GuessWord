@@ -13,3 +13,6 @@ def display(user_letters, word):
         else:
             display_letter += "_"
     return display_letter
+    
+   def play():
+   	pass
